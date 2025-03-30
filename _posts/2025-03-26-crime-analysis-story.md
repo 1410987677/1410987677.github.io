@@ -15,4 +15,4 @@ The chart shows vehicle theft and drug/narcotic crimes peak at night, while vand
 This visualization was created using Bokeh.
 
 
-[👉 View Full Data Story (Week 8)](/assets/Assignment2.html)
+[👉 View Full Data Story (Assignment2)](/assets/Assignment2.html)
