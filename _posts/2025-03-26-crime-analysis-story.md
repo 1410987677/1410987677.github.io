@@ -13,3 +13,6 @@ Below is a bar chart showing the **relative hourly frequency** for the top 10 cr
 The chart shows vehicle theft and drug/narcotic crimes peak at night, while vandalism occurs throughout the day.
 
 This visualization was created using Bokeh.
+
+
+[👉 View Full Data Story (Week 8)](/assets/Assignment2.html)
